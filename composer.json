@@ -1,0 +1,10 @@
+{
+    "require": {
+        "react/event-loop": "^1.0",
+        "react/http": "^0.8.3",
+        "react/http-client": "^0.5.9",
+        "react/dns": "^0.4.15",
+        "recoil/react": "^1.0",
+        "react/stream": "^1.0.0"
+    }
+}
